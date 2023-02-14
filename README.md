@@ -1,4 +1,4 @@
-# Game---Space-Shooter-SFML-C++
+# game-space-shooter-cpp-sfml
 
 The presentation of the game is here:
 https://youtu.be/PzVfvsdBxLo
